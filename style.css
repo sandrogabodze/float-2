@@ -1,0 +1,20 @@
+.div1 {
+    width: 232px;
+    height: 297px;
+    border: 1px solid; color: red;
+    overflow-x:scroll;
+    float: left;
+}
+
+p {
+    color: black;
+}
+
+.photo1 {
+    background-image: url("317918338_4466898543434922_8127104348087342302_n\ 1.png");
+    width: 560px;
+    height: 646.53px;
+    float: right;
+    margin-top: 9px;
+}
+
